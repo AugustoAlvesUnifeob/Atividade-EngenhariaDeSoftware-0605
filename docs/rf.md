@@ -1,4 +1,4 @@
-# Regras de Negócio - Rede de cinema
+# Requisitos Funcionais - Rede de cinema
 
 ## 01 - Cadastro de Cinema
 O Sistema deve permitir o cadastro da filial do cinema contendo: CNPJ, localização, capacidade, numero de salas, etc.
